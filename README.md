@@ -1,1 +1,3 @@
-"# Nodejs-Email-Spammer-" 
+# Nodejs-Email-Spammer 💀☠
+
+## A simple nodejs for spamming emails 🤐
